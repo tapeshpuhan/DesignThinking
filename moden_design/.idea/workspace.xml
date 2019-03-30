@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Klocwork Static Analysis">
+    <option name="kwProject" value="" />
+    <option name="kwBuildSpec" value="" />
+    <option name="kwTpl" value="false" />
+    <option name="kwTplOptions" value="" />
+    <option name="enabledStatuses" value="Analyze;Fix;" />
+    <option name="disabledOwners" value="" />
+    <option name="parallelAnalysis" value="true" />
+    <option name="showLocalOnly" value="false" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="67" />
+    <option name="y" value="27" />
+    <option name="width" value="1833" />
+    <option name="height" value="1053" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+</project>
