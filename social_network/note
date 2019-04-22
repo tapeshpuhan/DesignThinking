@@ -1,0 +1,30 @@
+Understanding Graph Data Structure.
+
+Design a Feature : 
+Add friend , 
+Remove friend ,
+Suggest Friend,
+Provide option to get type of friend
+
+ As ;like Facebook.
+ 
+ Create a Graph Which will represented the related friends in a Adjucent 
+ Matrics
+ 
+ Ecample :- 
+ => A, B , C , D , E , E , F, H Are the person name
+ => A is friend of D and E
+ => B is friend of F and H
+ ...
+ ...
+ * A user can add friends and remove friends from the Graph info.
+ 
+ * A user can get suggesion of naibor friends to add new friend 
+ 
+ * A user can get list of closed frined / Family Friend / Professional Friend.
+ 
+ 
+ 
+ 
+ 
+ 
